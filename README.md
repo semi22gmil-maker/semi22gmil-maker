@@ -12,41 +12,41 @@ I build secure, automated, and resilient systems across Cybersecurity, Networkin
 <tr>
 <td valign="top" width="33%">🛡️ Cybersecurity
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=linux,bash" height="40"/>
-</p>SOC Operations · Threat Detection · Security Monitoring · Incident Response · SIEM / SOAR · Threat Intelligence · Risk Analysis · Security Auditing · RBAC / IAM · Authentication & Authorization · Detection Engineering
+</p>SOC Operations · Threat Detection · Security Monitoring · Incident Response · SIEM / SOAR · Threat Intelligence · Risk Analysis · Security Auditing · RBAC / IAM · Authentication & Authorization
 
 </td><td valign="top" width="33%">🌐 Networking & Infrastructure
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=linux,docker,nginx" height="40"/>
 </p>TCP/IP · Network Architecture · Routing & Switching · Network Security · Linux Administration · Infrastructure Security · System Monitoring · Containers · Reverse Proxy · Virtualization
 
 </td><td valign="top" width="33%">⚙️ Automation & AI
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,docker" height="40"/>
-</p>n8n Automation · Workflow Design · REST APIs · Webhooks · System Integration · AI Agents · AI Workflow Automation · Data Processing · Event-Driven Automation
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,docker,postgres" height="40"/>
+</p>n8n · Workflow Automation · AI Agents · REST APIs · Webhooks · API Integration · Data Automation · Process Automation · AI Workflow Orchestration
 
 </td>
 </tr><tr>
-<td valign="top">💻 Software Engineering
+<td valign="top">💻 Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,php,java,c,js,ts" height="40"/>
-</p>Python · C · C++ · C# · PHP · Java · JavaScript · TypeScript · Backend Development · REST APIs · API Integration
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,php,java,js,ts" height="40"/>
+</p>Python · C · C++ · C# · PHP · Java · JavaScript · TypeScript · Backend Development · API Development
 
-</td><td valign="top">🗄️ Database Engineering
+</td><td valign="top">🗄️ Databases
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" height="40"/>
-</p>Oracle · PostgreSQL · MySQL · SQL · Database Design · Database Administration · Data Modeling · Query Optimization · Redis · Data Management
+</p>Oracle · PostgreSQL · MySQL · SQL · Database Design · Database Administration · Data Modeling · Query Optimization · Redis
 
-</td><td valign="top">🔧 DevOps & Tools
+</td><td valign="top">🔧 Systems & DevOps
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,nginx" height="40"/>
-</p>Docker · Git · GitHub · Linux · Bash · Nginx · Environment Management · Deployment · Infrastructure
+</p>Docker · Git · GitHub · Linux · Bash · Nginx · Deployment · Infrastructure · Environment Management
 
 </td>
 </tr>
@@ -56,69 +56,88 @@ I build secure, automated, and resilient systems across Cybersecurity, Networkin
 
 💻 Programming Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,php,java,js,ts,html,css" />
-</p>🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
-</p>Oracle Database · SQL · Database Design · Database Administration · Data Modeling · Query Optimization
-
-🌐 Web & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,react,vite,nginx" />
-</p>FastAPI · React · Vite · REST APIs · Webhooks · API Integration
-
-🐳 DevOps & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github" />
-</p>Docker · Linux · Bash · Git · GitHub · Nginx
+</p>"Python" · "C" · "C++" · "C#" · "PHP" · "Java" · "JavaScript" · "TypeScript" · "HTML" · "CSS"
 
 ---
 
-⚙️ Automation & AI Agents
+🌐 Web & Backend
 
-🔗 n8n
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,react,vite,nginx" />
+</p>"FastAPI" · "React" · "Vite" · "REST APIs" · "Webhooks" · "JSON" · "API Integration"
 
-I design automated workflows using n8n to connect APIs, databases, applications, and AI services.
+---
 
-Automation Stack:
+🗄️ Databases & Data
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,docker,postgres,redis" />
-</p>n8n · REST APIs · Webhooks · Python · PostgreSQL · Redis · Docker
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>"Oracle Database" · "PostgreSQL" · "MySQL" · "SQL" · "Redis" · "Database Design" · "Data Modeling" · "Database Administration"
 
-🤖 AI Agent Automation
+---
 
-I am interested in building and automating AI Agents through workflow-based architectures.
+🐳 DevOps & Infrastructure
 
-Trigger
-   ↓
-Data Collection
-   ↓
-AI Agent
-   ↓
-Reasoning / Processing
-   ↓
-Tool & API Calls
-   ↓
-Decision
-   ↓
-Automated Action
-   ↓
-Logging & Notification
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,linux,bash,nginx,git,github" />
+</p>"Docker" · "Linux" · "Bash" · "Nginx" · "Git" · "GitHub"
 
-Examples include:
+---
 
-- 🤖 AI-powered workflow automation
-- 🔄 Automated decision workflows
-- 🔌 API & Webhook integration
-- 🧠 AI Agent orchestration
-- 📊 Data processing and enrichment
-- 🚨 Security event automation
-- 📬 Automated notifications and responses
+⚙️ Automation Ecosystem
+
+I build automated workflows that connect applications, APIs, databases, communication platforms, cloud services, social media, and AI systems.
+
+🔗 20 Tools & Integrations
+
+<p align="center"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><br><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/><br><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/><br><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=postman&logoColor=white"/></p>---
+
+🤖 AI Agent & Workflow Automation
+
+I design AI-powered automation workflows capable of connecting data sources, APIs, databases, communication platforms, and external services.
+
+                 ┌───────────────┐
+                 │    Trigger    │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │ Data Sources  │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │   AI Agent    │
+                 └───────┬───────┘
+                         ↓
+             ┌───────────┼───────────┐
+             ↓           ↓           ↓
+          APIs       Databases    Services
+             └───────────┼───────────┘
+                         ↓
+                 ┌───────────────┐
+                 │    Action     │
+                 └───────┬───────┘
+                         ↓
+              Notification / Output
+
+n8n · AI Agents · LLM APIs · REST APIs · Webhooks · PostgreSQL · Redis · Python
 
 ---
 
@@ -132,8 +151,7 @@ A security-focused platform combining:
 
 "Authentication" · "RBAC" · "Audit Logging" · "Security Events" · "Threat Detection" · "Risk Analysis" · "Threat Intelligence" · "Automation" · "ML"
 
-Stack:
-"Python" · "FastAPI" · "React" · "TypeScript" · "PostgreSQL" · "Redis" · "Docker"
+Stack: "Python" · "FastAPI" · "React" · "TypeScript" · "PostgreSQL" · "Redis" · "Docker"
 
 ---
 
@@ -148,21 +166,17 @@ Stack:
 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>---
 
 📫 Connect
 
 <p align="center"><a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="YOUR_LINKEDIN">
+</a><a href="YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
+</a><a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a></p>---
 
