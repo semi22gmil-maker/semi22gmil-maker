@@ -2,7 +2,7 @@
 
 ⚡ Electrical Engineer · 🛡️ Cybersecurity Engineer · 🌐 Network Engineer
 
-I build secure, automated, and resilient systems by combining Electrical Engineering, Cybersecurity, Networking, Software Engineering, and Infrastructure.
+I build secure, automated, and resilient systems across Cybersecurity, Networking, Software Engineering, Databases, and Infrastructure.
 
 ---
 
@@ -22,27 +22,27 @@ I build secure, automated, and resilient systems by combining Electrical Enginee
 <img src="https://skillicons.dev/icons?i=linux,docker,nginx" height="40"/>
 </p>TCP/IP · Network Architecture · Routing & Switching · Network Security · Linux Administration · Infrastructure Security · System Monitoring · Containers · Reverse Proxy · Virtualization
 
-</td><td valign="top" width="33%">⚙️ Automation & Integration
+</td><td valign="top" width="33%">⚙️ Automation & AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,docker,redis,postgres" height="40"/>
-</p>n8n Automation · Workflow Automation · REST APIs · Webhooks · System Integration · Data Processing · Event-Driven Workflows
+<img src="https://skillicons.dev/icons?i=python,docker" height="40"/>
+</p>n8n Automation · Workflow Design · REST APIs · Webhooks · System Integration · AI Agents · AI Workflow Automation · Data Processing · Event-Driven Automation
 
 </td>
 </tr><tr>
 <td valign="top">💻 Software Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,react,vite" height="40"/>
-</p>Python · FastAPI · JavaScript · TypeScript · React · REST APIs · Backend Development · API Integration
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,php,java,c,js,ts" height="40"/>
+</p>Python · C · C++ · C# · PHP · Java · JavaScript · TypeScript · Backend Development · REST APIs · API Integration
 
 </td><td valign="top">🗄️ Database Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,redis" height="40"/>
-</p>PostgreSQL · SQL · Database Design · Database Administration · Data Modeling · Query Optimization · Redis · Data Management
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" height="40"/>
+</p>Oracle · PostgreSQL · MySQL · SQL · Database Design · Database Administration · Data Modeling · Query Optimization · Redis · Data Management
 
-</td><td valign="top">🔧 DevOps & Infrastructure
+</td><td valign="top">🔧 DevOps & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,nginx" height="40"/>
@@ -54,25 +54,71 @@ I build secure, automated, and resilient systems by combining Electrical Enginee
 
 🧰 Technologies & Tools
 
-💻 Programming & Development
+💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,react,vite,bash" />
-</p>🗄️ Databases & Storage
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,php,java,js,ts,html,css" />
+</p>🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,redis" />
-</p>🌐 Infrastructure & DevOps
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>Oracle Database · SQL · Database Design · Database Administration · Data Modeling · Query Optimization
+
+🌐 Web & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github" />
-</p>⚙️ Automation & Integration
+<img src="https://skillicons.dev/icons?i=fastapi,react,vite,nginx" />
+</p>FastAPI · React · Vite · REST APIs · Webhooks · API Integration
 
-n8n · REST APIs · Webhooks · Workflow Automation · System Integration
+🐳 DevOps & Infrastructure
 
-🛡️ Security
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github" />
+</p>Docker · Linux · Bash · Git · GitHub · Nginx
 
-SOC · SIEM · SOAR · IAM · RBAC · Threat Intelligence · Security Monitoring · Detection Engineering
+---
+
+⚙️ Automation & AI Agents
+
+🔗 n8n
+
+I design automated workflows using n8n to connect APIs, databases, applications, and AI services.
+
+Automation Stack:
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,docker,postgres,redis" />
+</p>n8n · REST APIs · Webhooks · Python · PostgreSQL · Redis · Docker
+
+🤖 AI Agent Automation
+
+I am interested in building and automating AI Agents through workflow-based architectures.
+
+Trigger
+   ↓
+Data Collection
+   ↓
+AI Agent
+   ↓
+Reasoning / Processing
+   ↓
+Tool & API Calls
+   ↓
+Decision
+   ↓
+Automated Action
+   ↓
+Logging & Notification
+
+Examples include:
+
+- 🤖 AI-powered workflow automation
+- 🔄 Automated decision workflows
+- 🔌 API & Webhook integration
+- 🧠 AI Agent orchestration
+- 📊 Data processing and enrichment
+- 🚨 Security event automation
+- 📬 Automated notifications and responses
 
 ---
 
@@ -82,40 +128,20 @@ SOC · SIEM · SOAR · IAM · RBAC · Threat Intelligence · Security Monitoring
 
 Financial Resilient Security Operations Center
 
-A security platform designed to combine security monitoring, event management, access control, auditing, detection, risk analysis, automation, and security intelligence.
+A security-focused platform combining:
 
-Stack: "Python" · "FastAPI" · "React" · "TypeScript" · "PostgreSQL" · "Redis" · "Docker"
+"Authentication" · "RBAC" · "Audit Logging" · "Security Events" · "Threat Detection" · "Risk Analysis" · "Threat Intelligence" · "Automation" · "ML"
 
----
-
-⚙️ Automation
-
-I am particularly interested in building automated workflows that connect systems, process security data, and reduce repetitive operational tasks.
-
-Data Collection
-      ↓
-Processing & Enrichment
-      ↓
-Detection & Analysis
-      ↓
-Decision
-      ↓
-Notification / Response
-
-n8n · Python · REST APIs · Webhooks · Docker · PostgreSQL · Redis
+Stack:
+"Python" · "FastAPI" · "React" · "TypeScript" · "PostgreSQL" · "Redis" · "Docker"
 
 ---
 
 🎯 Focus Areas
 
-<p align="center">🛡️ Cyber Defense
-🌐 Network Security
-🚨 SOC Engineering
-🔎 Detection Engineering
-⚙️ Security Automation
-🗄️ Database Engineering
-🏗️ Secure Infrastructure
-⚡ Resilient Systems
+<p align="center">🛡️ Cyber Defense · 🚨 SOC Engineering · 🔎 Detection Engineering
+🌐 Network Security · ⚙️ Security Automation · 🤖 AI Agents
+🗄️ Database Engineering · 🏗️ Secure Infrastructure · ⚡ Resilient Systems
 
 </p>---
 
@@ -140,6 +166,6 @@ n8n · Python · REST APIs · Webhooks · Docker · PostgreSQL · Redis
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a></p>---
 
-<p align="center">🛡️ Secure by Design · ⚙️ Automated by Default · 🏗️ Resilient by Architecture
+<p align="center">🛡️ Secure by Design · ⚙️ Automated by Default · 🤖 Intelligent by Workflow
 
 </p>
